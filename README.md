@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tanvu30081994
+- 👋 Hi, I’m @tanvu
 - 👀 I’m interested in reading, listening and coding
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on ..
